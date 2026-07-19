@@ -1,9 +1,9 @@
 # Xen Repository Synchronization Record
 
 **Status:** Active public platform repository  
-**Effective date:** 2026-07-18  
+**Effective date:** 2026-07-19  
 **Canonical authority:** `decureton-xencreator/xen-operating-system`  
-**Execution authority:** AM-002 — Autonomous Execution Authority
+**Execution authority:** AM-002 Version 1.2 — Autonomous Execution Authority
 
 ## Repository role
 
@@ -28,24 +28,26 @@ This repository is the public Xen Engine website and platform surface. It inheri
 
 ## Sync state
 
-Registered and synchronized with the active Xen repository network as of 2026-07-18.
-
+Registered and synchronized with the active Xen repository network as of 2026-07-19.
 
 ## XSMDE-002 propagation — 2026-07-19
 
 Xen Engine may present the licensable XSMDE capability only within verified implementation, certification, product-data, safety, privacy, and IP truth boundaries.
 
-
 ## XSMDE-003 propagation — 2026-07-19
 
 Xen Engine may market the XSMDE licensing surface while preserving provider, storage, certification, and fabrication truth boundaries.
-
 
 ## XSMDE 1.0.0 completion — 2026-07-19
 
 Xen Engine may present XSMDE 1.0.0 as a licensable reference product while disclosing external deployment, provider, certification, Artcraft transaction and fabrication gates.
 
-
 ## XSMDE public product deployment — 2026-07-19
 
 Xen Engine may link and license the deployed XSMDE product with explicit D1/R2, photogrammetry, Artcraft transaction and certification truth states.
+
+## AM-002 Warden activation — 2026-07-19
+
+Xen Engine inherits the active Xen Governance Warden lifecycle and truth gates from the canonical activation receipt at `Governance/Warden/WARDEN-ACTIVATION-2026-07-19.md`.
+
+Warden enforcement applies to public claims, product-state labels, deployment evidence, dependency inheritance, synchronization records, and prevention of planned, preview, or reference capability being marketed as verified production operation. This record does not claim a continuously hosted Warden service inside this repository without separate runtime evidence.
