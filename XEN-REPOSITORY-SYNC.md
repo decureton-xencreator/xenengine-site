@@ -51,3 +51,11 @@ Xen Engine may link and license the deployed XSMDE product with explicit D1/R2, 
 Xen Engine inherits the active Xen Governance Warden lifecycle and truth gates from the canonical activation receipt at `Governance/Warden/WARDEN-ACTIVATION-2026-07-19.md`.
 
 Warden enforcement applies to public claims, product-state labels, deployment evidence, dependency inheritance, synchronization records, and prevention of planned, preview, or reference capability being marketed as verified production operation. This record does not claim a continuously hosted Warden service inside this repository without separate runtime evidence.
+
+## XAA-001 Academy synchronization — 2026-07-19
+
+Xen Engine may present Xen Academy as a governed learning operating system with an Academy Dashboard, Academic Advisor, mission-based learning, Voice Learning Protocol, complete-upfront quiz briefs, and Resume Anywhere.
+
+Public product language must distinguish canonical architecture, implemented interface, preview demonstration, connected persistence, and certified operating capability. No claim of live learner-state persistence, personalized coaching, XP, mastery, or certification is permitted without verified supporting runtime evidence.
+
+AM-002 authorizes routine product-surface synchronization; XGW-001 enforces disclosure, accessibility, dependency, evidence, and completion-truth gates.
