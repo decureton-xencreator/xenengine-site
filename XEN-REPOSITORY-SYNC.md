@@ -23,9 +23,14 @@ This repository is the public Xen Engine website and platform surface. It inheri
 
 - `decureton-xencreator/xen-operating-system` — canonical source of truth
 - `decureton-xencreator/daily-bread-` — Daily Bread implementation
-- `decureton-xencreator/xei-genesis-preview` — public Xenesis preview
+- `decureton-xencreator/xei-Xenesis-preview` — public Xenesis preview
 - `decureton-xencreator/xenengine-site` — public Xen Engine website
 
 ## Sync state
 
 Registered and synchronized with the active Xen repository network as of 2026-07-18.
+
+
+## XSMDE-002 propagation — 2026-07-19
+
+Xen Engine may present the licensable XSMDE capability only within verified implementation, certification, product-data, safety, privacy, and IP truth boundaries.
