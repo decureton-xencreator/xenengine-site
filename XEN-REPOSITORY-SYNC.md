@@ -44,3 +44,8 @@ Xen Engine may market the XSMDE licensing surface while preserving provider, sto
 ## XSMDE 1.0.0 completion — 2026-07-19
 
 Xen Engine may present XSMDE 1.0.0 as a licensable reference product while disclosing external deployment, provider, certification, Artcraft transaction and fabrication gates.
+
+
+## XSMDE public product deployment — 2026-07-19
+
+Xen Engine may link and license the deployed XSMDE product with explicit D1/R2, photogrammetry, Artcraft transaction and certification truth states.
