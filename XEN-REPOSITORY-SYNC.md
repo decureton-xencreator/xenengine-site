@@ -39,3 +39,8 @@ Xen Engine may present the licensable XSMDE capability only within verified impl
 ## XSMDE-003 propagation — 2026-07-19
 
 Xen Engine may market the XSMDE licensing surface while preserving provider, storage, certification, and fabrication truth boundaries.
+
+
+## XSMDE 1.0.0 completion — 2026-07-19
+
+Xen Engine may present XSMDE 1.0.0 as a licensable reference product while disclosing external deployment, provider, certification, Artcraft transaction and fabrication gates.
