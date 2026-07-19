@@ -34,3 +34,8 @@ Registered and synchronized with the active Xen repository network as of 2026-07
 ## XSMDE-002 propagation — 2026-07-19
 
 Xen Engine may present the licensable XSMDE capability only within verified implementation, certification, product-data, safety, privacy, and IP truth boundaries.
+
+
+## XSMDE-003 propagation — 2026-07-19
+
+Xen Engine may market the XSMDE licensing surface while preserving provider, storage, certification, and fabrication truth boundaries.
